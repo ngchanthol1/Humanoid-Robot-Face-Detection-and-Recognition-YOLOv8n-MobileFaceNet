@@ -1,0 +1,9 @@
+[org.gnome.desktop.interface]
+cursor-theme='PiXtrix'
+font-name='Nunito Sans Light 12'
+gtk-theme='PiXtrix'
+icon-theme='PiXtrix'
+
+[org.gnome.desktop.wm.preferences]
+auto-raise=true
+button-layout='appmenu:minimize,maximize,close'

@@ -1,0 +1,6 @@
+Welcome David with 30 seconds
+best threshold value
+
+--recognition_threshold = 0.75
+--strict_threshold = 0.91
+--min_matching_ewmbedding = 5
